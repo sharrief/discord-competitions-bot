@@ -1,0 +1,24 @@
+{
+  "name": "discord-competitions-bot",
+  "version": "0.0.1",
+  "description": "Discord bot for fitness activity competitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharrief/discord-competitions-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "competitions",
+    "bot"
+  ],
+  "author": "github.com/sharrief",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharrief/discord-competitions-bot/issues"
+  },
+  "homepage": "https://github.com/sharrief/discord-competitions-bot#readme"
+}
